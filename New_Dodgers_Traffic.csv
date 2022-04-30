@@ -1,4 +1,4 @@
-Week_Day,Hour,Minute,Traffic_flow,Game_Ended
+Day_of_Week,Hour,Minute,Traffic_flow,Game_Ended
 0,7,35,23,0
 0,7,40,42,0
 0,7,45,37,0
